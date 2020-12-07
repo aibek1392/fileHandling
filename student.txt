@@ -1,0 +1,5 @@
+1,Altaf Quadri,Accounting
+2,Aibek Ozhorov,Economics
+3,Vivica Ma,Sports
+
+6,John Lee,Arts
